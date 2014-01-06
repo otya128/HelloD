@@ -1,0 +1,11 @@
+<DProject>
+ <ProjectGuid>b4500d5c-f3f0-4db2-b55d-d27e18d3640d</ProjectGuid>
+ <Config name="Debug">
+  <!-- default to defaults -->
+ </Config>
+ <Config name="Release">
+  </Config>
+ <Folder name="ConsoleApp1">
+  <File path="main.d" />
+ </Folder>
+</DProject>
